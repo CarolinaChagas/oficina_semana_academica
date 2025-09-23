@@ -1,12 +1,12 @@
-package services;
+package com.example.demo.service;
 
 import java.util.Date;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import entity.Usuario;
-import repository.UsuarioRepository;
+import com.example.demo.entity.Usuario;
+import com.example.demo.repository.UsuarioRepository;
 
 @Service
 public class UsuarioService {

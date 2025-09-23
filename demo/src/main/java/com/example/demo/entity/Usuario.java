@@ -1,4 +1,4 @@
-package entity;
+package com.example.demo.entity;
 
 import java.util.Date;
 
@@ -55,8 +55,4 @@ public class Usuario {
     @Column(name = "permissao")
     private String permissao;
 
-	public String getNome() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 }

@@ -1,12 +1,12 @@
-package vo;
+package com.example.demo.vo;
 
 import java.util.Date;
 
+import com.example.demo.entity.Usuario;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
-import entity.Usuario;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
