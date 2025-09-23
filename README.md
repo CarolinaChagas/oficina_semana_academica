@@ -1,0 +1,1 @@
+Slides para se guiar ao longo da oficina, estão disponível em: https://www.canva.com/design/DAGzLD3gd44/H0oC2LAtuzOpm4Nr4twhHw/view?utm_content=DAGzLD3gd44&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd7afad254e
